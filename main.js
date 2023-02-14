@@ -7,7 +7,7 @@
 // monTableau["maman"]= "tati";
 // monTableau["papa"]= "tutu";
 
-// console.table(monTableau);
+console.table(monTableau);
 const rond = document.getElementById('rond');
 const carre = document.getElementsByClassName('carre')
 console.log(carre);
