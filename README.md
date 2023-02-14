@@ -14,3 +14,4 @@ alert("ma variable a est de type : " + typeof(a) +
 "\nma variable d est de type : " + typeof(d));
 ```
 
+![capture1](https://github.com/MessaliHadj/coursJs/blob/main/img/Capture.png);
